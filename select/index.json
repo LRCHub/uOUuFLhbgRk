@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "fake smile",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-03T14:04:39.257696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "fake smile",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/01_fake_smile_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "fake smile",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_fake_smile_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "fake smile - live",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_fake_smile_-_live_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Smile",
+      "artist": "Thousand Below",
+      "has_synced": true,
+      "path": "select/04_Fake_Smile_Thousand_Below.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "fake smile (Instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_fake_smile_(Instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Best Fake Smile",
+      "artist": "James Bay",
+      "has_synced": false,
+      "path": "select/06_Best_Fake_Smile_James_Bay.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "fake smile",
+      "artist": "アリアナ・グランデ",
+      "has_synced": true,
+      "path": "select/07_fake_smile_アリアナ・グランデ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Best Fake Smile",
+      "artist": "James Bay",
+      "has_synced": true,
+      "path": "select/08_Best_Fake_Smile_James_Bay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Best Fake Smile",
+      "artist": "James Bay",
+      "has_synced": true,
+      "path": "select/09_Best_Fake_Smile_James_Bay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fake Smile",
+      "artist": "Rebecca Ferguson",
+      "has_synced": true,
+      "path": "select/10_Fake_Smile_Rebecca_Ferguson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fake Smile - Live at Air Studios",
+      "artist": "Rebecca Ferguson",
+      "has_synced": true,
+      "path": "select/11_Fake_Smile_-_Live_at_Air_Studios_Rebecca_Ferguson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fake Smile (Live at Air Studios)",
+      "artist": "Rebecca Ferguson",
+      "has_synced": true,
+      "path": "select/12_Fake_Smile_(Live_at_Air_Studios)_Rebecca_Ferguson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Best Fake Smile",
+      "artist": "James Bay",
+      "has_synced": true,
+      "path": "select/13_Best_Fake_Smile_James_Bay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just A Fake Smile",
+      "artist": "Kyle Park",
+      "has_synced": true,
+      "path": "select/14_Just_A_Fake_Smile_Kyle_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fake Smile",
+      "artist": "Rittz",
+      "has_synced": false,
+      "path": "select/15_Fake_Smile_Rittz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fake Smile",
+      "artist": "Carlie Hanson",
+      "has_synced": true,
+      "path": "select/16_Fake_Smile_Carlie_Hanson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fake smile",
+      "artist": "アリアナ・グランデ",
+      "has_synced": false,
+      "path": "select/pl_01_fake_smile_アリアナ・グランデ.txt"
+    }
+  ]
+}
